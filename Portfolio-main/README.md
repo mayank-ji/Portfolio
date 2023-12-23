@@ -1,2 +1,2 @@
-# To View My Portfolio, **[click here](https://charulpatidar.netlify.app/)**
+# To View My Portfolio, **[click here](https://mayanksolanki.netlify.app/)**
 
